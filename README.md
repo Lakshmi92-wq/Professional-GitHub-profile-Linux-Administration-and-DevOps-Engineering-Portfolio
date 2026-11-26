@@ -1,5 +1,4 @@
-# Professional-GitHub-profile-Linux-Administration-and-DevOps-Engineering-Portfolio
-
+# lakshmi-ganesh-devops-portfolio
 <h1 align="center">Hi 👋, I'm Lakshmi Ganesh</h1>
 
 <h3 align="center">Linux System Administrator | DevOps Engineer</h3>
