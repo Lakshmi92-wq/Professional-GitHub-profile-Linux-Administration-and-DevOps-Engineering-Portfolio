@@ -27,7 +27,7 @@ I am an IT Infrastructure and DevOps professional with 10+ years of experience i
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category | Technologies |
 |---|---|
